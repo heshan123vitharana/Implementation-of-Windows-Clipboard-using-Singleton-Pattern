@@ -15,4 +15,4 @@ This repository contains an implementation of the **Windows Clipboard** using th
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<heshan123vitharana>/WindowsClipboardExample.git
+   git clone https://github.com/heshan123vitharana/WindowsClipboardExample.git
